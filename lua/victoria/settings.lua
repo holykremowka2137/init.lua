@@ -13,7 +13,8 @@ o.smartindent = true
 o.hlsearch = false
 o.incsearch = true
 
-o.wrap = false
+o.wrap = true
+o.linebreak = false
 
 o.number = true
 o.relativenumber = true
