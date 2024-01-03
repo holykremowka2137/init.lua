@@ -14,6 +14,7 @@ vim.defer_fn(function()
             'toml' ,
             'vim',
             'vimdoc',
+            'xml',
             'yaml',
         },
 
