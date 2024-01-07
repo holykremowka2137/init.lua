@@ -14,7 +14,7 @@ o.hlsearch = false
 o.incsearch = true
 
 o.wrap = true
-o.linebreak = false
+o.linebreak = true
 
 o.number = true
 o.relativenumber = true
