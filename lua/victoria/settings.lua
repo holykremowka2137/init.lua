@@ -1,7 +1,6 @@
 local o = vim.opt
 local g = vim.g
 
-o.smartindent = true
 o.expandtab = true
 o.tabstop = 4
 o.shiftwidth = 4
