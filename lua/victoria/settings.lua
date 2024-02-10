@@ -18,7 +18,7 @@ o.linebreak = true
 o.number = true
 o.relativenumber = true
 o.cursorline = true
-o.cursorlineopt = 'number'
+--o.cursorlineopt = 'number'
 
 o.mouse = 'a'
 
