@@ -12,10 +12,6 @@ vim.defer_fn(function()
             'python',
             'rust',
             'toml' ,
-            'vim',
-            'vimdoc',
-            'xml',
-            'yaml',
         },
 
         sync_install = false,
