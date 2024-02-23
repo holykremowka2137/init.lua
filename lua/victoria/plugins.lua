@@ -1,5 +1,6 @@
 require("lazy").setup({
-    { 'tpope/vim-fugitive' },
+    'NvChad/nvim-colorizer.lua',
+    'tpope/vim-fugitive',
     {
         'neovim/nvim-lspconfig',
         dependencies = {
