@@ -1,5 +1,0 @@
-require("victoria.settings")
-require("victoria.remaps")
-require("victoria.lazy")
-require("victoria.plugins")
-require("victoria.functions")
